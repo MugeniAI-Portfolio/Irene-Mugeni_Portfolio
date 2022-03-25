@@ -1,2 +1,4 @@
 # Irene-Mugeni_Portfolio
-Data Science projects
+Projects Portfolio
+
+#[Project 1: SQL ]
